@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Tomas. I am an IT student from Czech republic.<br>Currently working on my API project : baltcasipocasi.vercel.app<br><br>My portfolio: to0masportfolio.vercel.app
+My name is Tomas. I am an IT student from Czech republic.<br>Currently I am working on a group project in Flutter<br><br>My portfolio: to0masportfolio.vercel.app
 
 
 ## 🌐 Socials:
